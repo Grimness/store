@@ -1,0 +1,183 @@
+#a{
+	margin:0px auto;/*自身居中*/
+	width:900px;
+}
+body{
+	margin-top:0px;
+	width:100%;
+	text-align:center;/*内容居中*/
+}
+#top{
+	width:100%;
+	height:30px;
+}
+#logo{
+	float:left;
+}
+#title{
+
+	height:50px;
+	float:right;
+	font:"Courier New", Courier, monospace;
+	font-size:15px;
+	padding-right:20px;	
+}
+#title li{
+	list-style:none;
+	float:left;
+}
+#title a{
+	color:#AAA;
+	text-decoration:none;
+}
+#title a:hover{
+	color:#000;
+	text-decoration:underline;
+
+}
+#dh{
+	width:540px;
+	height:50px;
+	float:right;
+	padding-top:5px;
+	font-family:"Times New Roman", Times, serif;
+	font-size:20px;
+	font-weight:bold;
+}
+
+#dh li{
+	list-style:none;
+	float:left;
+	width:100px;
+
+}
+#dh a{
+	text-decoration:none;
+	color:#555;
+}
+#dh a:hover{
+	color:#F90;
+}
+#body{
+	font-size:20px;
+	font-family:宋体;
+	font-weight:bold;
+	width:100%;
+	height:30px;
+	padding-top:10px;
+}
+
+#fuzhuang1{
+	width:228px;
+	height:350px;
+	border:1px solid #DDD;
+	float:left;
+}
+#fuzhuang1 dl{
+	padding-right:40px;
+}
+#fuzhuang2 dl{
+	padding-right:40px;
+}
+#fuzhuang3 dl{
+	padding-right:40px;
+}
+#fuzhuang2{
+	width:228px;
+	height:350px;
+	border:1px solid #DDD;
+	float:left;
+	margin-left:104px;
+}
+#fuzhuang3{
+	width:228px;
+	height:350px;
+	border:1px solid #DDD;
+	float:left;
+	margin-left:104px;
+}
+#fuzhuang dd{
+	padding-right:25px;
+
+}
+#dibu{
+	margin-top:360px;
+	width:100%;
+	height:60px;
+	border-top:solid 1px #BBB;
+	border-bottom:solid 1px #BBB;
+}
+#dibu li{
+	float:left;
+	list-style:none;
+	width:250px;
+	font:Georgia, "Times New Roman", Times, serif;
+	font-size:24px;
+	color:#F00;
+}
+#dibu a{
+	color:#999;
+	text-decoration:none;
+}
+#jiewei{
+	padding-top:20px;
+}
+#zc {
+	width:100%;
+	height:85px;
+	text-align:left;
+}
+#zcz {
+	height:700px;
+	width: 850px;
+	margin-top:50px;
+	border:solid #999 1px;
+	margin-left:50px;
+}
+#zct {
+	height: 50px;
+	width:300px;
+	text-align:left;
+	font-size:30px;
+	padding-top:20px;
+	padding-left:15px;
+	font-weight:bold;
+}
+
+#biaoge {
+	margin-top:50px;
+	height: 550px;
+	width: 500px;
+	padding-left:99px;
+	float:left;
+}
+#biaoge p{
+	color:#888;
+}
+#fanhui {
+	float:right;
+	height: 40px;
+	width: 200px;
+}
+#fanhui a{
+	text-decoration:none;
+	color:#666;
+	font-weight:bold;
+	font-size:14px;
+	font-family:宋体;
+}
+#fanhui a:hover{
+	color:#D00;
+}
+#xieyi {
+	height: 300px;
+	width: 230px;
+	float:left;
+	margin-top:90px;
+}
+#xieyi form{
+	height:300px;
+}
+.cc a:hover{
+	color:#000;
+}

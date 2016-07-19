@@ -1,0 +1,104 @@
+@charset "utf-8";
+/* CSS Document */
+#a{
+	margin:0px auto;/*自身居中*/
+	width:900px;
+}
+#top{
+	width:100%;
+	height:110px;
+	border-bottom:solid 2px #888;
+}
+#logo{
+	float:left;
+	height:100px;
+	width:300px;
+}
+#title{
+
+	height:50px;
+	float:right;
+	font:"Courier New", Courier, monospace;
+	font-size:15px;
+	padding-right:20px;	
+}
+#title li{
+	list-style:none;
+	float:left;
+}
+#title a{
+	color:#AAA;
+	text-decoration:none;
+}
+#title a:hover{
+	color:#000;
+	text-decoration:underline;
+}
+#dh{
+	width:540px;
+	height:50px;
+	float:right;
+	padding-top:5px;
+	font-family:"Times New Roman", Times, serif;
+	font-size:20px;
+	font-weight:bold;
+}
+
+#dh li{
+	list-style:none;
+	float:left;
+	width:100px;
+
+}
+#dh a{
+	text-decoration:none;
+	color:#555;
+}
+#dh a:hover{
+	color:#F90;
+}
+#header {
+	width:100%;
+	background-color:#444;
+}
+#yxjs {
+	margin-top:20px;
+	width:550px;
+	float:left;
+}
+
+#yxy{
+	float:left;
+	margin-bottom:200px;
+	width:300px;
+	height:344px;
+	margin:20px 0px 0px 45px;
+	border:solid 2px #888;
+}
+#yxx {
+	width:100%;
+	height:600px;
+	float:left;
+	margin-top:20px;
+	background-image:url(../image/bg02.jpg);
+	background-position:-50px -40px;
+}
+#gm{
+	width:120px;
+	height:90px;
+	margin:450px 0px 0px 140px;
+	float:left;
+}
+#gm2{
+	width:150px;
+	height:90px;
+	margin:450px 0px 0px 395px;
+	float:left;
+}
+#jiewei{
+	width:100%;
+	margin-top:20px;
+	float:left;
+	border-top:solid 1px #444;
+	text-align:center;
+}
